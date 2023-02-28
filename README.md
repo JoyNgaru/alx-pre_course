@@ -1,1 +1,1 @@
-SYNTAX error 101
+Editing my first read me file
