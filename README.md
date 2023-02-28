@@ -1,1 +1,1 @@
-SYNTAX
+SYNTAX error 101
